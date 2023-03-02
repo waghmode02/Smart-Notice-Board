@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="save_image">save_image</string>
+    <string name="uplaod_image">uplaod_image</string>
+</resources>
